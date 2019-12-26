@@ -1,16 +1,12 @@
 # alertDialog methods
 
-setTitle
-setMessage
-setIcon
 
 setCustomTitle
 
 setPositiveButton 
-
+setNegativeButton 
 setView 
 
-setList
 
 setMultiChoiceList 
 
@@ -22,4 +18,4 @@ setDismissListener
 
 setShowListener 
 
-setCancelable
+setCancelable  dialog.cancel()
