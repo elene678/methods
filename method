@@ -1,0 +1,25 @@
+# alertDialog methods
+
+setTitle
+setMessage
+setIcon
+
+setCustomTitle
+
+setPositiveButton 
+
+setView 
+
+setList
+
+setMultiChoiceList 
+
+setPositiveButtonIcon 
+
+show() 
+
+setDismissListener 
+
+setShowListener 
+
+setCancelable
