@@ -8,9 +8,10 @@ setNegativeButton
 setPositiveButtonIcon 
 
 setMultiChoiceList 
+setDismissListener 
+setShowListener 
 
 show() 
 
-setDismissListener 
-setShowListener 
+
 
