@@ -5,17 +5,12 @@ setCustomTitle
 
 setPositiveButton 
 setNegativeButton 
-setView 
-
+setPositiveButtonIcon 
 
 setMultiChoiceList 
-
-setPositiveButtonIcon 
 
 show() 
 
 setDismissListener 
-
 setShowListener 
 
-setCancelable  dialog.cancel()
